@@ -7,7 +7,7 @@
         left: 0;
     }
     body {
-        background: radial-gradient(rgb(112, 90, 101), rgb(105, 84, 94), rgb(29, 12, 17));
+        background: radial-gradient(rgb(153, 5, 5), rgb(105, 84, 94), rgb(29, 12, 17));
         vertical-align: top;
     }
     html {
