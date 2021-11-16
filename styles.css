@@ -7,7 +7,7 @@
         left: 0;
     }
     body {
-        background: radial-gradient(rgb(153, 5, 5), rgb(105, 84, 94), rgb(29, 12, 17));
+        background: radial-gradient(rgb(184, 28, 28), rgb(172, 1, 1), rgb(184, 28, 28));
         vertical-align: top;
     }
     html {
@@ -31,7 +31,7 @@
         display: flex;
     }
     .column-header {
-        background: linear-gradient(rgb(171, 170, 175), rgb(135, 133, 147), rgb(171, 170, 175));
+        background: linear-gradient(rgb(35, 35, 37), rgb(99, 98, 109), rgb(141, 140, 146));
         color: white;
     }
     #photo img {
