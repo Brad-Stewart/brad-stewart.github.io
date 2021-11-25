@@ -86,7 +86,7 @@
     }
     #footer {
         bottom: 0;
-        text-align: center;
+        text-align:  left;
         position: static;
     }
     #footer a {
