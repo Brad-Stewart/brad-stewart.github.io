@@ -8,7 +8,7 @@
     }
     body {
         background: radial-gradient(rgb(184, 28, 28), rgb(172, 1, 1), rgb(184, 28, 28));
-        vertical-align: left;
+        vertical-align: center;
     }
     html {
         font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
