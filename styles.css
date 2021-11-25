@@ -8,7 +8,7 @@
     }
     body {
         background: radial-gradient(rgb(184, 28, 28), rgb(172, 1, 1), rgb(184, 28, 28));
-        vertical-align: center;
+        vertical-align: left;
     }
     html {
         font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -86,7 +86,7 @@
     }
     #footer {
         bottom: 0;
-        text-align:  left;
+        text-align: center;
         position: static;
     }
     #footer a {
